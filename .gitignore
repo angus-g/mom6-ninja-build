@@ -1,0 +1,6 @@
+*.mod
+*.o
+*.a
+.ninja_*
+build.ninja
+config.ninja
